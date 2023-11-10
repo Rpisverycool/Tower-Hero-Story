@@ -1,0 +1,32 @@
+body{
+    background-color: plum;
+    font-family: 'Niconne', cursive;
+}
+h3{
+    font-size: 30px;
+    color: dodgerblue;
+    font-family: 'Niconne', cursive;
+}
+h1{
+    font-size: 55px;
+    font-family: 'Niconne', cursive;
+    color: dodgerblue;
+}
+a
+{
+    font-size: 30px;
+    color: black;
+    background-color:cyan;
+
+}
+h4
+{
+    background-color: rgb(128, 128, 128);
+    color:rgb(255, 255, 255);
+    line-height: 2;
+ }
+ .big_image
+ {
+     width: fit-content;
+     height: fit-content;
+ }
